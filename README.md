@@ -105,6 +105,3 @@ The customer segmentation project provided valuable insights into the diverse cu
 - Continuous monitoring and updating of customer segments to reflect changing behaviors and trends.
 - Integration of additional data sources such as social media interactions and customer feedback to enrich the segmentation analysis.
 - Application of advanced techniques like deep learning for more nuanced segmentation.
-
-**Project Done By:** S. VishwaMoorthy  
-**Date:** 11/07/2024
